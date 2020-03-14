@@ -1,0 +1,36 @@
+{
+  "name": "bepgen",
+  "version": "1.0.0",
+  "description": "Basic English Phrase GENerator",
+  "main": "lib/index.js",
+  "files": [
+    "lib/**/*"
+  ],
+  "keywords": [],
+  "homepage": "FIXME: this should point to readme at github",
+  "bugs": {
+    "url": "FIXME: this should point to issues page at github"
+  },
+  "author": "brkn",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "rm -rf coverage/ && jest --coverage",
+    "type-check": "echo \"type-checking...\" && tsc --noEmit"
+  },
+  "lint-staged": {
+    "src/**/*.{ts,tsx}": [
+      "lint"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged && npm run test &&  npm run type-check"
+    }
+  },
+  "devDependencies": {
+    "husky": "4.2.3",
+    "lint-staged": "10.0.8",
+    "typescript": "3.8.3"
+  }
+}
