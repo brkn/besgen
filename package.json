@@ -1,5 +1,5 @@
 {
-  "name": "bepgen",
+  "name": "besgen",
   "version": "0.1.0",
   "description": "Basic English Sentence Generator",
   "main": "lib/index.js",
