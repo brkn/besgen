@@ -1,1170 +1,1172 @@
 const otherBasicNouns = [
   {
     word: "arm",
-    picturable: false
+    picturable: false,
   },
   {
     word: "army",
-    picturable: false
+    picturable: false,
   },
   {
     word: "baby",
-    picturable: false
+    picturable: false,
   },
   {
     word: "bag",
-    picturable: false
+    picturable: false,
   },
   {
     word: "basket",
-    picturable: false
+    picturable: false,
   },
   {
     word: "bed",
-    picturable: false
+    picturable: false,
   },
   {
     word: "blade",
-    picturable: false
+    picturable: false,
   },
   {
     word: "blood",
-    picturable: false
+    picturable: false,
   },
   {
     word: "body",
-    picturable: false
+    picturable: false,
   },
   {
     word: "bone",
-    picturable: false
+    picturable: false,
   },
   {
     word: "book",
-    picturable: false
+    picturable: false,
   },
   {
     word: "boot",
-    picturable: false
+    picturable: false,
   },
   {
     word: "bottle",
-    picturable: false
+    picturable: false,
   },
   {
     word: "box",
-    picturable: false
+    picturable: false,
   },
   {
     word: "boy",
-    picturable: false
+    picturable: false,
   },
   {
     word: "brain",
-    picturable: false
+    picturable: false,
   },
   {
     word: "branch",
-    picturable: false
+    picturable: false,
   },
   {
     word: "bridge",
-    picturable: false
+    picturable: false,
   },
   {
     word: "brush",
-    picturable: false
+    picturable: false,
   },
   {
     word: "bucket",
-    picturable: false
+    picturable: false,
   },
   {
     word: "building",
-    picturable: false
+    picturable: false,
   },
   {
     word: "bulb",
-    picturable: false
+    picturable: false,
   },
   {
     word: "butter",
-    picturable: false
+    picturable: false,
   },
   {
     word: "button",
-    picturable: false
+    picturable: false,
   },
   {
     word: "cake",
-    picturable: false
+    picturable: false,
   },
   {
     word: "camera",
-    picturable: false
+    picturable: false,
   },
   {
     word: "card",
-    picturable: false
+    picturable: false,
   },
   {
     word: "chain",
-    picturable: false
+    picturable: false,
   },
   {
     word: "chance",
-    picturable: false
+    picturable: false,
   },
   {
     word: "cheese",
-    picturable: false
+    picturable: false,
   },
   {
     word: "chest",
-    picturable: false
+    picturable: false,
   },
   {
     word: "chin",
-    picturable: false
+    picturable: false,
   },
   {
     word: "church",
-    picturable: false
+    picturable: false,
   },
   {
     word: "circle",
-    picturable: false
+    picturable: false,
   },
   {
     word: "clock",
-    picturable: false
+    picturable: false,
   },
   {
     word: "coat",
-    picturable: false
+    picturable: false,
   },
   {
     word: "collar",
-    picturable: false
+    picturable: false,
   },
   {
     word: "color",
-    picturable: false
+    picturable: false,
   },
   {
     word: "comb",
-    picturable: false
+    picturable: false,
   },
   {
     word: "cotton",
-    picturable: false
+    picturable: false,
   },
   {
     word: "crack",
-    picturable: false
+    picturable: false,
   },
   {
     word: "credit",
-    picturable: false
+    picturable: false,
   },
   {
     word: "cut",
-    picturable: false
+    picturable: false,
   },
   {
     word: "damage",
-    picturable: false
+    picturable: false,
   },
   {
     word: "danger",
-    picturable: false
+    picturable: false,
   },
   {
     word: "day",
-    picturable: false
+    picturable: false,
   },
   {
     word: "door",
-    picturable: false
+    picturable: false,
   },
   {
     word: "dress",
-    picturable: false
+    picturable: false,
   },
   {
     word: "drink",
-    picturable: false
+    picturable: false,
   },
   {
     word: "drop",
-    picturable: false
+    picturable: false,
   },
   {
     word: "dust",
-    picturable: false
+    picturable: false,
   },
   {
     word: "ear",
-    picturable: false
+    picturable: false,
   },
   {
     word: "education",
-    picturable: false
+    picturable: false,
   },
   {
     word: "effect",
-    picturable: false
+    picturable: false,
   },
   {
     word: "egg",
-    picturable: false
+    picturable: false,
   },
   {
     word: "end",
-    picturable: false
+    picturable: false,
   },
   {
     word: "engine",
-    picturable: false
+    picturable: false,
   },
   {
     word: "example",
-    picturable: false
+    picturable: false,
   },
   {
     word: "expert",
-    picturable: false
+    picturable: false,
   },
   {
     word: "female",
-    picturable: false
+    picturable: false,
   },
   {
     word: "fire",
-    picturable: false
+    picturable: false,
   },
   {
     word: "flag",
-    picturable: false
+    picturable: false,
   },
   {
     word: "flame",
-    picturable: false
+    picturable: false,
   },
   {
     word: "flight",
-    picturable: false
+    picturable: false,
   },
   {
     word: "floor",
-    picturable: false
+    picturable: false,
   },
   {
     word: "flower",
-    picturable: false
+    picturable: false,
   },
   {
     word: "fly",
-    picturable: false
+    picturable: false,
   },
   {
     word: "fold",
-    picturable: false
+    picturable: false,
   },
   {
     word: "food",
-    picturable: false
+    picturable: false,
   },
   {
     word: "foot",
-    picturable: false
+    picturable: false,
   },
   {
     word: "force",
-    picturable: false
+    picturable: false,
   },
   {
     word: "fork",
-    picturable: false
+    picturable: false,
   },
   {
     word: "form",
-    picturable: false
+    picturable: false,
   },
   {
     word: "frame",
-    picturable: false
+    picturable: false,
   },
   {
     word: "friend",
-    picturable: false
+    picturable: false,
   },
   {
     word: "fruit",
-    picturable: false
+    picturable: false,
   },
   {
     word: "future",
-    picturable: false
+    picturable: false,
   },
   {
     word: "garden",
-    picturable: false
+    picturable: false,
   },
   {
     word: "general",
-    picturable: false
+    picturable: false,
   },
   {
     word: "girl",
-    picturable: false
+    picturable: false,
   },
   {
     word: "glass",
-    picturable: false
+    picturable: false,
   },
   {
     word: "glove",
-    picturable: false
+    picturable: false,
   },
   {
     word: "grip",
-    picturable: false
+    picturable: false,
   },
   {
     word: "gun",
-    picturable: false
+    picturable: false,
   },
   {
     word: "hair",
-    picturable: false
+    picturable: false,
   },
   {
     word: "hammer",
-    picturable: false
+    picturable: false,
   },
   {
     word: "hand",
-    picturable: false
+    picturable: false,
   },
   {
     word: "hat",
-    picturable: false
+    picturable: false,
   },
   {
     word: "hate",
-    picturable: false
+    picturable: false,
   },
   {
     word: "head",
-    picturable: false
+    picturable: false,
   },
   {
     word: "heart",
-    picturable: false
+    picturable: false,
   },
   {
     word: "heat",
-    picturable: false
+    picturable: false,
   },
   {
     word: "help",
-    picturable: false
+    picturable: false,
   },
   {
     word: "history",
-    picturable: false
+    picturable: false,
   },
   {
     word: "hole",
-    picturable: false
+    picturable: false,
   },
   {
     word: "hook",
-    picturable: false
+    picturable: false,
   },
   {
     word: "horn",
-    picturable: false
+    picturable: false,
   },
   {
     word: "hospital",
-    picturable: false
+    picturable: false,
   },
   {
     word: "hour",
-    picturable: false
+    picturable: false,
   },
   {
     word: "house",
-    picturable: false
+    picturable: false,
   },
   {
     word: "humor",
-    picturable: false
+    picturable: false,
   },
   {
     word: "ice",
-    picturable: false
+    picturable: false,
   },
   {
     word: "idea",
-    picturable: false
+    picturable: false,
   },
   {
     word: "ink",
-    picturable: false
+    picturable: false,
   },
   {
     word: "kettle",
-    picturable: false
+    picturable: false,
   },
   {
     word: "law",
-    picturable: false
+    picturable: false,
   },
   {
     word: "leaf",
-    picturable: false
+    picturable: false,
   },
   {
     word: "lock",
-    picturable: false
+    picturable: false,
   },
   {
     word: "love",
-    picturable: false
+    picturable: false,
   },
   {
     word: "machine",
-    picturable: false
+    picturable: false,
   },
   {
     word: "male",
-    picturable: false
+    picturable: false,
   },
   {
     word: "man",
-    picturable: false
+    picturable: false,
   },
   {
     word: "market",
-    picturable: false
+    picturable: false,
   },
   {
     word: "meal",
-    picturable: false
+    picturable: false,
   },
   {
     word: "meat",
-    picturable: false
+    picturable: false,
   },
   {
     word: "memory",
-    picturable: false
+    picturable: false,
   },
   {
     word: "middle",
-    picturable: false
+    picturable: false,
   },
   {
     word: "military",
-    picturable: false
+    picturable: false,
   },
   {
     word: "mind",
-    picturable: false
+    picturable: false,
   },
   {
     word: "minute",
-    picturable: false
+    picturable: false,
   },
   {
     word: "money",
-    picturable: false
+    picturable: false,
   },
   {
     word: "month",
-    picturable: false
+    picturable: false,
   },
   {
     word: "moon",
-    picturable: false
+    picturable: false,
   },
   {
     word: "morning",
-    picturable: false
+    picturable: false,
   },
   {
     word: "mother",
-    picturable: false
+    picturable: false,
   },
   {
     word: "name",
-    picturable: false
+    picturable: false,
   },
   {
     word: "news",
-    picturable: false
+    picturable: false,
   },
   {
     word: "night",
-    picturable: false
+    picturable: false,
   },
   {
     word: "number",
-    picturable: false
+    picturable: false,
   },
   {
     word: "nut",
-    picturable: false
+    picturable: false,
   },
   {
     word: "page",
-    picturable: false
+    picturable: false,
   },
   {
     word: "pain",
-    picturable: false
+    picturable: false,
   },
   {
     word: "paint",
-    picturable: false
+    picturable: false,
   },
   {
     word: "paper",
-    picturable: false
+    picturable: false,
   },
   {
     word: "pen",
-    picturable: false
+    picturable: false,
   },
   {
     word: "pencil",
-    picturable: false
+    picturable: false,
   },
   {
     word: "pot",
-    picturable: false
+    picturable: false,
   },
   {
     word: "potato",
-    picturable: false
+    picturable: false,
   },
   {
     word: "prison",
-    picturable: false
+    picturable: false,
   },
   {
     word: "private",
-    picturable: false
+    picturable: false,
   },
   {
     word: "public",
-    picturable: false
+    picturable: false,
   },
   {
     word: "road",
-    picturable: false
+    picturable: false,
   },
   {
     word: "secret",
-    picturable: false
+    picturable: false,
   },
   {
     word: "ship",
-    picturable: false
+    picturable: false,
   },
   {
     word: "shoe",
-    picturable: false
+    picturable: false,
   },
   {
     word: "sister",
-    picturable: false
+    picturable: false,
   },
   {
     word: "sleep",
-    picturable: false
+    picturable: false,
   },
   {
     word: "smile",
-    picturable: false
+    picturable: false,
   },
   {
     word: "smoke",
-    picturable: false
+    picturable: false,
   },
   {
     word: "sock",
-    picturable: false
+    picturable: false,
   },
   {
     word: "sound",
-    picturable: false
+    picturable: false,
   },
   {
     word: "spoon",
-    picturable: false
+    picturable: false,
   },
   {
     word: "star",
-    picturable: false
+    picturable: false,
   },
   {
     word: "steel",
-    picturable: false
+    picturable: false,
   },
   {
     word: "stick",
-    picturable: false
+    picturable: false,
   },
   {
     word: "store",
-    picturable: false
+    picturable: false,
   },
   {
     word: "table",
-    picturable: false
+    picturable: false,
   },
   {
     word: "tail",
-    picturable: false
+    picturable: false,
   },
   {
     word: "thing",
-    picturable: false
+    picturable: false,
   },
   {
     word: "thumb",
-    picturable: false
+    picturable: false,
   },
   {
     word: "toe",
-    picturable: false
+    picturable: false,
   },
   {
     word: "umbrella",
-    picturable: false
+    picturable: false,
   },
   {
     word: "wine",
-    picturable: false
+    picturable: false,
   },
   {
     word: "wool",
-    picturable: false
-  }
+    picturable: false,
+  },
 ];
 
 const gaming = [
   {
     word: "tower",
-    picturable: true
+    picturable: true,
   },
   {
     word: "team",
-    picturable: false
-  }
+    picturable: false,
+  },
 ];
 
 const animals = [
   {
     word: "alleycat",
-    picturable: true
+    picturable: true,
   },
   {
     word: "alligator",
-    picturable: true
+    picturable: true,
   },
   {
     word: "alpaca",
-    picturable: true
+    picturable: true,
   },
   {
     word: "anaconda",
-    picturable: true
+    picturable: true,
   },
   {
     word: "ant",
-    picturable: true
+    picturable: true,
   },
   {
     word: "antelope",
-    picturable: true
+    picturable: true,
   },
   {
     word: "ape",
-    picturable: true
+    picturable: true,
   },
   {
     word: "badger",
-    picturable: true
+    picturable: true,
   },
   {
     word: "bass",
-    picturable: true
+    picturable: true,
   },
   {
     word: "bat",
-    picturable: true
+    picturable: true,
   },
   {
     word: "beagle",
-    picturable: true
+    picturable: true,
   },
   {
     word: "bear",
-    picturable: true
+    picturable: true,
   },
   {
     word: "bee",
-    picturable: true
+    picturable: true,
   },
   {
     word: "bird",
-    picturable: true
+    picturable: true,
   },
   {
     word: "bison",
-    picturable: true
+    picturable: true,
   },
   {
     word: "bonobo",
-    picturable: true
+    picturable: true,
   },
   {
     word: "buffalo",
-    picturable: true
+    picturable: true,
   },
   {
     word: "bug",
-    picturable: true
+    picturable: true,
   },
   {
     word: "bull",
-    picturable: true
+    picturable: true,
   },
   {
     word: "bulldog",
-    picturable: true
+    picturable: true,
   },
   {
     word: "butterfly",
-    picturable: true
+    picturable: true,
   },
   {
     word: "camel",
-    picturable: true
+    picturable: true,
   },
   {
     word: "cat",
-    picturable: true
+    picturable: true,
   },
   {
     word: "cobra",
-    picturable: true
+    picturable: true,
   },
   {
     word: "cow",
-    picturable: true
+    picturable: true,
   },
   {
     word: "crane",
-    picturable: true
+    picturable: true,
   },
   {
     word: "crocodile",
-    picturable: true
+    picturable: true,
   },
   {
     word: "crow",
-    picturable: true
+    picturable: true,
   },
   {
     word: "dog",
-    picturable: true
+    picturable: true,
   },
   {
     word: "dolphin",
-    picturable: true
+    picturable: true,
   },
   {
     word: "dragon",
-    picturable: true
+    picturable: true,
   },
   {
     word: "duck",
-    picturable: true
+    picturable: true,
   },
   {
     word: "duckling",
-    picturable: true
+    picturable: true,
   },
   {
     word: "eagle",
-    picturable: true
+    picturable: true,
   },
   {
     word: "earthworm",
-    picturable: true
+    picturable: true,
   },
   {
     word: "elephant",
-    picturable: true
+    picturable: true,
   },
   {
     word: "fish",
-    picturable: true
+    picturable: true,
   },
   {
     word: "flamingo",
-    picturable: true
+    picturable: true,
   },
   {
     word: "fly",
-    picturable: true
+    picturable: true,
   },
   {
     word: "fox",
-    picturable: true
+    picturable: true,
   },
   {
     word: "goat",
-    picturable: true
+    picturable: true,
   },
   {
     word: "goldenretriever",
-    picturable: true
+    picturable: true,
   },
   {
     word: "gorilla",
-    picturable: true
+    picturable: true,
   },
   {
     word: "groundhog",
-    picturable: true
+    picturable: true,
   },
   {
     word: "guineapig",
-    picturable: true
+    picturable: true,
   },
   {
     word: "hedgehog",
-    picturable: true
+    picturable: true,
   },
   {
     word: "hornet",
-    picturable: true
+    picturable: true,
   },
   {
     word: "horse",
-    picturable: true
+    picturable: true,
   },
   {
     word: "hound",
-    picturable: true
+    picturable: true,
   },
   {
     word: "husky",
-    picturable: true
+    picturable: true,
   },
   {
     word: "hydra",
-    picturable: true
+    picturable: true,
   },
   {
     word: "insect",
-    picturable: true
+    picturable: true,
   },
   {
     word: "jaguar",
-    picturable: true
+    picturable: true,
   },
   {
     word: "kangaroo",
-    picturable: true
+    picturable: true,
   },
   {
     word: "kiwi",
-    picturable: true
+    picturable: true,
   },
   {
     word: "koala",
-    picturable: true
+    picturable: true,
   },
   {
     word: "ladybug",
-    picturable: true
+    picturable: true,
   },
   {
     word: "lamb",
-    picturable: true
+    picturable: true,
   },
   {
     word: "lizard",
-    picturable: true
+    picturable: true,
   },
   {
     word: "maltesedog",
-    picturable: true
+    picturable: true,
   },
   {
     word: "mayfly",
-    picturable: true
+    picturable: true,
   },
   {
     word: "monkey",
-    picturable: true
+    picturable: true,
   },
   {
     word: "mouse",
-    picturable: true
+    picturable: true,
   },
   {
     word: "needlefish",
-    picturable: true
+    picturable: true,
   },
   {
     word: "nightcrawler",
-    picturable: true
+    picturable: true,
   },
   {
     word: "nighthawk",
-    picturable: true
+    picturable: true,
   },
   {
     word: "nurseshark",
-    picturable: true
+    picturable: true,
   },
   {
     word: "nutcracker",
-    picturable: true
+    picturable: true,
   },
   {
     word: "opossum",
-    picturable: true
+    picturable: true,
   },
   {
     word: "orangutan",
-    picturable: true
+    picturable: true,
   },
   {
     word: "orca",
-    picturable: true
+    picturable: true,
   },
   {
     word: "ostrich",
-    picturable: true
+    picturable: true,
   },
   {
     word: "ox",
-    picturable: true
+    picturable: true,
   },
   {
     word: "parrot",
-    picturable: true
+    picturable: true,
   },
   {
     word: "peacock",
-    picturable: true
+    picturable: true,
   },
   {
     word: "pelican",
-    picturable: true
+    picturable: true,
   },
   {
     word: "penguin",
-    picturable: true
+    picturable: true,
   },
   {
     word: "phoenix",
-    picturable: true
+    picturable: true,
   },
   {
     word: "piranha",
-    picturable: true
+    picturable: true,
   },
   {
     word: "pitbull",
-    picturable: true
+    picturable: true,
   },
   {
     word: "plankton",
-    picturable: true
+    picturable: true,
   },
   {
     word: "poodle",
-    picturable: true
+    picturable: true,
   },
   {
     word: "pufferfish",
-    picturable: true
+    picturable: true,
   },
   {
     word: "pug",
-    picturable: true
+    picturable: true,
   },
   {
     word: "puppy",
-    picturable: true
+    picturable: true,
   },
   {
     word: "python",
-    picturable: true
+    picturable: true,
   },
   {
     word: "queenbee",
-    picturable: true
+    picturable: true,
   },
   {
     word: "quokka",
-    picturable: true
+    picturable: true,
   },
   {
     word: "rabbit",
-    picturable: true
+    picturable: true,
   },
   {
     word: "raccoon",
-    picturable: true
+    picturable: true,
   },
   {
     word: "rat",
-    picturable: true
+    picturable: true,
   },
   {
     word: "rhino",
-    picturable: true
+    picturable: true,
   },
   {
     word: "roadrunner",
-    picturable: true
+    picturable: true,
   },
   {
     word: "salamander",
-    picturable: true
+    picturable: true,
   },
   {
     word: "salmon",
-    picturable: true
+    picturable: true,
   },
   {
     word: "sardine",
-    picturable: true
+    picturable: true,
   },
   {
     word: "sawfish",
-    picturable: true
+    picturable: true,
   },
   {
     word: "seahorse",
-    picturable: true
+    picturable: true,
   },
   {
     word: "seal",
-    picturable: true
+    picturable: true,
   },
   {
     word: "shark",
-    picturable: true
+    picturable: true,
   },
   {
     word: "sheep",
-    picturable: true
+    picturable: true,
   },
   {
     word: "shrimp",
-    picturable: true
+    picturable: true,
   },
   {
     word: "skunk",
-    picturable: true
+    picturable: true,
   },
   {
     word: "sloth",
-    picturable: true
+    picturable: true,
   },
   {
     word: "sponge",
-    picturable: true
+    picturable: true,
   },
   {
     word: "stag",
-    picturable: true
+    picturable: true,
   },
   {
     word: "swan",
-    picturable: true
+    picturable: true,
   },
   {
     word: "swordfish",
-    picturable: true
+    picturable: true,
   },
   {
     word: "tapir",
-    picturable: true
+    picturable: true,
   },
   {
     word: "tarantula",
-    picturable: true
+    picturable: true,
   },
   {
     word: "termite",
-    picturable: true
+    picturable: true,
   },
   {
     word: "tiger",
-    picturable: true
+    picturable: true,
   },
   {
     word: "toad",
-    picturable: true
+    picturable: true,
   },
   {
     word: "tortoise",
-    picturable: true
+    picturable: true,
   },
   {
     word: "turkey",
-    picturable: true
+    picturable: true,
   },
   {
     word: "turtle",
-    picturable: true
+    picturable: true,
   },
   {
     word: "unicorn",
-    picturable: true
+    picturable: true,
   },
   {
     word: "viper",
-    picturable: true
+    picturable: true,
   },
   {
     word: "vulture",
-    picturable: true
+    picturable: true,
   },
   {
     word: "wasp",
-    picturable: true
+    picturable: true,
   },
   {
     word: "worm",
-    picturable: true
+    picturable: true,
   },
   {
     word: "yak",
-    picturable: true
+    picturable: true,
   },
   {
     word: "yeti",
-    picturable: true
+    picturable: true,
   },
   {
     word: "zebra",
-    picturable: true
-  }
+    picturable: true,
+  },
 ];
 
-export default [...animals, ...gaming, ...otherBasicNouns];
+export default [...animals, ...gaming, ...otherBasicNouns].map(
+  noun => noun.word,
+);

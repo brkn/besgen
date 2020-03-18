@@ -2,353 +2,353 @@ const colors = [
   {
     word: "amaranth",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "amber",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "amethyst",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "apricot",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "aquamarine",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "azure",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "beige",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "black",
     basic: true,
-    webColor: true
+    webColor: true,
   },
   {
     word: "blue",
     basic: true,
-    webColor: true
+    webColor: true,
   },
   {
     word: "blush",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "bronze",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "brown",
     basic: true,
-    webColor: true
+    webColor: true,
   },
   {
     word: "burgundy",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "byzantium",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "carmine",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "cerise",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "cerulean",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "champagne",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "chocolate",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "coffee",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "copper",
     basic: true,
-    webColor: true
+    webColor: true,
   },
   {
     word: "coral",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "crimson",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "cyan",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "emerald",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "erin",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "gold",
     basic: true,
-    webColor: true
+    webColor: true,
   },
   {
     word: "gray",
     basic: true,
-    webColor: true
+    webColor: true,
   },
   {
     word: "green",
     basic: true,
-    webColor: true
+    webColor: true,
   },
   {
     word: "harlequin",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "indigo",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "ivory",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "jade",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "lavender",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "lemon",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "lilac",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "lime",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "magenta",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "maroon",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "mauve",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "navy",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "ochre",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "olive",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "orange",
     basic: true,
-    webColor: true
+    webColor: true,
   },
   {
     word: "orchid",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "peach",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "pear",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "periwinkle",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "pink",
     basic: true,
-    webColor: true
+    webColor: true,
   },
   {
     word: "plum",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "puce",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "purple",
     basic: true,
-    webColor: true
+    webColor: true,
   },
   {
     word: "raspberry",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "red",
     basic: true,
-    webColor: true
+    webColor: true,
   },
   {
     word: "rose",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "ruby",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "salmon",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "sangria",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "sapphire",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "scarlet",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "silver",
     basic: true,
-    webColor: true
+    webColor: true,
   },
   {
     word: "tan",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "taupe",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "teal",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "turquoise",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "ultramarine",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "violet",
     basic: false,
-    webColor: true
+    webColor: true,
   },
   {
     word: "viridian",
     basic: false,
-    webColor: false
+    webColor: false,
   },
   {
     word: "white",
     basic: true,
-    webColor: true
+    webColor: true,
   },
   {
     word: "yellow",
     basic: true,
-    webColor: true
-  }
+    webColor: true,
+  },
 ];
 
 const otherBasicAdjectives = [
@@ -381,6 +381,7 @@ const otherBasicAdjectives = [
   "empty",
   "exciting",
   "expensive",
+  "evil",
   "fair",
   "famous",
   "far",
@@ -396,6 +397,7 @@ const otherBasicAdjectives = [
   "funny",
   "gone",
   "good",
+  "gothic",
   "great",
   "happy",
   "hard",
@@ -415,6 +417,8 @@ const otherBasicAdjectives = [
   "loud",
   "low",
   "lucky",
+  "master",
+  "motherly",
   "narrow",
   "near",
   "noisy",
@@ -453,7 +457,11 @@ const otherBasicAdjectives = [
   "wrong",
   "wise",
   "all",
-  "albino"
+  "albino",
 ];
 
-export default [...colors, ...otherBasicAdjectives];
+const basicColors = colors
+  .filter(color => color.basic)
+  .map(color => color.word);
+
+export default [...basicColors, ...otherBasicAdjectives];
