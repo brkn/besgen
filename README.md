@@ -6,6 +6,11 @@ Basic English Sentence Generator. It creates memorable id's like gfycat or twitc
 
 Structure looks like this for now: `Adjective Adjective Noun Verb(present tense) Adverb`
 
+Example:
+
+- `EmptySadDragonPutsWell`
+- `TidySweetRatComesExactly`
+
 ## License
 
 Apache-2.0
