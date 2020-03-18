@@ -7,9 +7,9 @@
     "lib/**/*"
   ],
   "keywords": [],
-  "homepage": "FIXME: this should point to readme at github",
+  "homepage": "https://github.com/brkn/besgen/blob/master/README.md",
   "bugs": {
-    "url": "FIXME: this should point to issues page at github"
+    "url": "https://github.com/brkn/besgen/issues"
   },
   "author": "brkn",
   "license": "Apache-2.0",
