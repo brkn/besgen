@@ -9,5 +9,5 @@
     "resolveJsonModule": true
   },
   "include": ["src/index.ts"],
-  "exclude": ["node_modules", "lib", "tests"]
+  "exclude": ["node_modules", "lib", "__tests__"]
 }

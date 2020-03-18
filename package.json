@@ -1,7 +1,7 @@
 {
   "name": "bepgen",
-  "version": "1.0.0",
-  "description": "Basic English Phrase GENerator",
+  "version": "0.1.0",
+  "description": "Basic English Sentence Generator",
   "main": "lib/index.js",
   "files": [
     "lib/**/*"
@@ -12,8 +12,9 @@
     "url": "FIXME: this should point to issues page at github"
   },
   "author": "brkn",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "scripts": {
+    "build": "tsc",
     "test": "jest",
     "test:coverage": "rm -rf coverage/ && jest --coverage",
     "type-check": "echo \"type-checking...\" && tsc --noEmit"
@@ -29,8 +30,11 @@
     }
   },
   "devDependencies": {
+    "@types/jest": "25.1.4",
     "husky": "4.2.3",
+    "jest": "25.1.0",
     "lint-staged": "10.0.8",
+    "ts-jest": "25.2.1",
     "typescript": "3.8.3"
   }
 }
